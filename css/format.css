@@ -1,0 +1,23 @@
+.accordionButton {	
+	width: 100%;
+	background: none;
+	border-bottom: 0px solid #040405;
+	cursor: pointer;
+	height:32px;
+	text-align:center;
+	}
+	
+.accordionContent {	
+	width: 100%;	
+	_float: none; /* Float works in all browsers but IE6 */
+	background: #040405;
+	color:#7c7c7c;
+	height:40px;
+	line-height:40px;
+	}
+.accordionmain {
+	width:800px;
+	margin:0px auto;
+}
+
+

@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+ font-family: MyCustomFont;
+ src: url("../fonts/etelkatext.eot") /* EOT file for IE */
+}
+
+.main{
+	margin:0px; padding:0px;
+}
+
+.wrapper{
+	width:960px; margin:0px auto;
+
+}
+
+.clear{
+	clear:both;
+}
+.logo{
+  width: 960px; 
+}
+
+div.footer {
+  position: absolute;  
+  bottom: 0;
+  width:100%;
+}
+div.hometext {
+	color:#7c7c7c; 
+	font-family:Tahoma, Geneva, sans-serif; 
+	font-size:16px; 
+	text-align:center; 
+	margin-bottom:30px;
+}
+div.button {
+	text-align:center;
+	margin-bottom:30px; 
+	border:0px;
+}
+
+div.button-catalog {
+	text-align:center;
+	border:0px;
+	margin-top: 22px;
+}

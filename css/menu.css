@@ -1,0 +1,47 @@
+.menu {
+height: 27px; font-family:Tahoma; color:#7c7c7c; font-size:13px; width:450px; float:left; font-weight:bold; 
+}
+
+.menu ul, .menu li {
+margin:0;
+padding: 0;
+list-style-type: none;
+}
+
+.menu ul {
+position: absolute;
+height: 27px;
+}
+
+.menu li { float:left;
+margin-right: 20px;
+}
+.menu li:last-child {
+margin-right: 0px;
+}
+
+.menu a:link { 
+color: #7c7c7c; /*text color*/
+text-decoration: none;
+text-decoration:none;
+line-height:27px;
+margin-right:20px;
+}
+.menu a:hover { 
+color: #fff; /*text color*/
+text-decoration: none;
+text-decoration:none;
+line-height:27px;
+margin-right:20px;
+}
+.menu a:visited { 
+color: #7c7c7c; /*text color*/
+text-decoration: none;
+text-decoration:none;
+line-height:27px;
+margin-right:20px;
+}
+
+.newmenu {
+height: 26px; font-family:Tahoma; color:#7c7c7c; font-size:13px; width:217px; float:right; font-weight:bold; text-align:right;
+ }

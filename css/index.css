@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin:0px; padding:0px;
+	background: url(../images/home-bg.png) fixed no-repeat center top;
+	background-size:100% 100%;
+}
+
+div.content {
+   width:960px; 
+   margin-top:80px; 
+   margin-bottom:10px; 
+   min-height:240px;
+}
